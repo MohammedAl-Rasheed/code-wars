@@ -26,6 +26,7 @@ function dup(s) {
       }
     }   
     newResult.push(newElement)
-  }  
+    }  
   return newResult;
 };
+
