@@ -14,13 +14,13 @@ Strings will be lowercase only, no spaces. See test cases for more examples.
 
 ## My Solution:
 
-function dup(s) {
+
+    
+    function dup(s) {
   let newResult=[]
   for(let i=0; i<s.length;i++){
     let string=s[i];
-    let newElement=''
-    
-    for(let j=0; j<string.length;j++){
+    let newElement=''for(let j=0; j<string.length;j++){
       if(string[j]!=string[j+1]){
         newElement+=string[j];
       }
