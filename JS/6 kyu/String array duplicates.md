@@ -1,4 +1,4 @@
-## Check out this [kata](http://www.codewars.com/kata/55b42574ff091733d900002f)
+## Check out this [kata](https://www.codewars.com/kata/59f08f89a5e129c543000069)
 
 ### Description:
 
