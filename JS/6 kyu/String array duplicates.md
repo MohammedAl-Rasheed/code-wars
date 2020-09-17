@@ -24,10 +24,8 @@ function dup(s) {
       if(string[j]!=string[j+1]){
         newElement+=string[j];
       }
-    }
-    
+    }   
     newResult.push(newElement)
-  }
-  
+  }  
   return newResult;
 };
